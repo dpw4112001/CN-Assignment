@@ -1,3 +1,3 @@
 # CN-Assignment
 
-Link : https://ninjas-events.netlify.app/
+Deployed Link : https://ninjas-events.netlify.app/
